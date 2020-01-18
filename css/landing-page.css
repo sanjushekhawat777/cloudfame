@@ -49,6 +49,7 @@ header.masthead h1 {
   header.masthead h1 {
     font-size: 3rem;
   }
+  
 }
 
 .showcase .showcase-text {
@@ -64,6 +65,8 @@ header.masthead h1 {
   .showcase .showcase-text {
     padding: 7rem;
   }
+  
+
 }
 
 .features-icons {
